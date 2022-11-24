@@ -21,7 +21,15 @@ int main(){
 
 // }
 
+//Q3
 
+// char alph = 'a' ;
+
+// while(alph<='z'){
+
+//     printf("%c\n",alph);
+//     alph++;
+// }
 
 
 return 0;
