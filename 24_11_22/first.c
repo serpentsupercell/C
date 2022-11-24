@@ -12,7 +12,14 @@ int main(){
 
 //Q 2
  
-// int a = 
+// int a = 1, b;
+// printf("Enter n : ");
+// scanf("%d",&b);
+// while(b>=a){
+//     printf("\n%d",b);
+//     b--;
+
+// }
 
 
 
