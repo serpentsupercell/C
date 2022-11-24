@@ -1,12 +1,18 @@
 #include<stdio.h>
 int main(){
-int i = 1;
-while(i>0){
- printf("\n%d\n",i);
- i++;
-}
+//Q 1
 
+// int i = 1, n;
+// printf("Enter n : ");
+// scanf("%d",&n);
+// while(i<=n){
+//  printf("\n%d\n",i);
+//  i++;
+// }
 
+//Q 2
+ 
+// int a = 
 
 
 
