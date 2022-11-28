@@ -45,6 +45,10 @@ while (num2!=0){
     if(freq == rem2){
         freqif++;
     }
+
+    // if(rem2 == freq){
+    //     freqif++;
+    // }                //Why doing this is wrong? 
 }
 
 printf("\nFrequency of %d is : %d", freq, freqif);
